@@ -2,7 +2,7 @@
 
 :v: Buenas :v: 
 
-:exclamation: Quiero acalarar :exclamation: 🗣️ Que este proyecto no fue pagado ni he conversado hasta el mometno con Tropikal sushi🤑 fue hecho solamente para realizar un desafio para mi persona y asi poder aprender mas sobre HTML, CSS Y JS...
+:exclamation: Quiero acalarar :exclamation: 🗣️ Que este proyecto no fue pagado ni he conversado hasta el mometno con Tropikal sushi🤑 fue hecho solamente para realizar un desafio para mi persona y asi poder aprender mas sobre HTML, CSS Y JS..
 
 
 
